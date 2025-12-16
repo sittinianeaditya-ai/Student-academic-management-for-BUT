@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SAE_C/SAE_C.vcxproj" Id="4e0e0281-ccff-4185-b5c2-daef9bba397f" />
+</Solution>
